@@ -10,6 +10,8 @@ At the end of the i-th quarter the balance owing Bi is given by
 * minus the repayment
 
 
-Liu Bi wants to borrow $10000 at 4% repaying $2600. What does he owe at the end?
+1) Liu Bi wants to borrow $10000 at 4% repaying $2600. What does he owe at the end?
 
 Answer: Repaying 2600 per quarter for 1 year leaves 657.78 owning
+
+2) Liu Bi wants to borrow $10000 and owe nothing in the end. How much does he have to repay at each quarter?
