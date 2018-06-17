@@ -15,3 +15,7 @@ At the end of the i-th quarter the balance owing Bi is given by
 Answer: Repaying 2600 per quarter for 1 year leaves 657.78 owning
 
 2) Liu Bi wants to borrow $10000 and owe nothing in the end. How much does he have to repay at each quarter?
+
+3) Liu Bi wants to borrow $10000 and owe nothing in the end, and can repay $3000 quarterly. What is the interest rate?
+
+Answer: 7.71%
